@@ -1,0 +1,27 @@
+{
+  "name": "nextssr",
+  "version": "1.0.0",
+  "description": "An exploratory project on Next.js for server-side rendering of React single-page applications for SEO purposes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/technolingo/nextssr.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/technolingo/nextssr/issues"
+  },
+  "homepage": "https://github.com/technolingo/nextssr#readme",
+  "dependencies": {
+    "next": "^7.0.2",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0"
+  }
+}
